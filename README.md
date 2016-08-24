@@ -1,0 +1,1 @@
+This is a simple JEE example project, to demonstrate the use of easylog.
